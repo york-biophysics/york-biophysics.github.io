@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>Leake Lab</title>
+    
+    
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+      <item>
+        <title>Physics of Life Group Away Day 2022</title>
+        <description>
+          
+          As every year, incredibly exciting to see so many success stories at the York 
+Physics of Life group away day! Of particular note, a lot of notes about tech
+start ups and spin offs!
+
+        </description>
+        <pubDate>Fri, 15 Jul 2022 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2022-07-15-pol2022/</link>
+        <guid isPermaLink="true">http://localhost:4000/2022-07-15-pol2022/</guid>
+      </item>
+    
+      <item>
+        <title>Physics of Life Group Away Day 2021</title>
+        <description>
+          
+          A genuine privelage to work with such a thoughtful and talented collective 
+focused at the interface of the physical and life sciences. Particularly good to 
+meet in three spatial dimensions…As every year, incredibly exciting to see so 
+many success stories at the York.
+
+        </description>
+        <pubDate>Tue, 07 Sep 2021 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2021-09-07-pol2021/</link>
+        <guid isPermaLink="true">http://localhost:4000/2021-09-07-pol2021/</guid>
+      </item>
+    
+      <item>
+        <title>Physics of Life Group Away Day 2019</title>
+        <description>
+          
+          The Physics of Life Away Day brought together a highly motivated team of 
+physicists, biologists, chemists, mathematicians and engineers to tackle major 
+questions related to human life and disease!
+
+
+        </description>
+        <pubDate>Tue, 11 Jun 2019 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/2019-06-11-pol2019/</link>
+        <guid isPermaLink="true">http://localhost:4000/2019-06-11-pol2019/</guid>
+      </item>
+    
+  </channel>
+</rss>
