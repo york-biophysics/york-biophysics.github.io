@@ -1,9 +1,12 @@
---- 
-layout: page 
+---
+layout: page
 title: Publications 
 ---
 
 2022:
+
+146. 	Payne-Dwyer, Alex L., Geng-Jen Jang, Govind Menon, Martin Howard, Caroline Dean, and Mark C. 
+		Leake."Spring blooms from self-assembly: epigenetic memory governed by nuclear assemblies and condensates." Biophysical Journal 121, no. 3 (2022): 168a.
 
 145.  Backer, Adam S., Graeme A. King, Andreas S. Biebricher, Jack Shepherd, Agnes Noy, Mark C. Leake,
       Iddo Heller, Gijs J. Wuite, and Erwin J. Peterman. "Exploring the structural dynamics of DNA using fluorescence polarization microscopy and optical tweezers." Biophysical Journal 121, no. 3 (2022): 277a-278a.
