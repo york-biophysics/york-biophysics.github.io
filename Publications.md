@@ -3,11 +3,6 @@ layout: page
 title: Publications 
 ---
 
---- 
-layout: page 
-title: Publications 
----
-
 2022:
 
 145.  Backer, Adam S., Graeme A. King, Andreas S. Biebricher, Jack Shepherd, Agnes Noy, Mark C. Leake,
