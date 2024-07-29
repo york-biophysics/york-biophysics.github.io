@@ -3,6 +3,7 @@ layout: page
 title: Publications 
 ---
 
+
 2024:
 
 Wollman, A., Syeda, A., Howard, J., Payne-Dwyer, A., Leech, A., Warecka, D., Guy, C., McGlynn, P., Hawkins, M., & Leake, M. (2024). Tetrameric UvrD helicase is located at the E. coli replisome due to frequent replication blocks. Journal of Molecular Biology, 436(2), 168369.
