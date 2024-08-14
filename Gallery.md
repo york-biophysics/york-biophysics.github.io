@@ -12,7 +12,7 @@ title: Gallery
 
 **Combi-Tweez movie of Lambda DNA**
 
-![yay](/assest/gifs/Lambda_DNA.gif)
+![yay](/assets/gifs/Lambda_DNA.gif)
 
 **Arthur Wohlfahrt DAAD Summer Project**
 
