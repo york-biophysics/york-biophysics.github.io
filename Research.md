@@ -84,8 +84,11 @@ joining our single-molecule biophysics group just get in touch!
 **M2 (aka "microFLAP"): MicroFluidics 3D Astigmatism and Photobleaching**
 ![yay](/assets/img/M2.jpg) 
 
-**M3 (aka "MOpTweeze"): Magnetic and Optical Tweezers**
+<!--**M3 (aka "MOpTweeze"): Magnetic and Optical Tweezers**-->
+**M3 (aka "COMBI-Tweez"): Magnetic and Optical Tweezers**
 ![yay](/assets/img/M3.jpg) 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8h162aLsLQ0?si=lMVfOCawmgFkvN3b" title="COMBI-Tweez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 **M4 (aka "ScaT"): Scanning and TIRF, variable angle epifluorescence/HILO/smFRET** 
 ![yay](/assets/img/M4.jpg) 
