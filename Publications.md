@@ -3,14 +3,23 @@ layout: page
 title: Publications 
 ---
 
+2025:
+
+Shepherd, J., Howard, J., Guilbaud, S., Zhou, Z., & Leake, M. (2025). BPS2025-Twisting, stretching, and imaging chiral biopolymers, such as DNA, in real time. Biophysical Journal, 124(3), 379a.
+
+Payne-Dwyer, A., Kumar, G., Barrett, J., Gherman, L., Hodgkinson, M., Plevin, M., Mackinder, L., Leake, M., & Schaefer, C. (2025). BPS2025-Turbocharged carbon fixation: A predictive combinatorial model for self-assembly and condensation of Rubisco. Biophysical Journal, 124(3), 411a.
+
+Lecinski, S., Howard, J., MacDonald, C., & Leake, M. (2025). iPAR: a new reporter for eukaryotic cytoplasmic protein aggregation. BMC methods, 2(1), 5.
+
+Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fang, X., Leake, M., & Dean, C. (2025). Modular in vivo assembly of Arabidopsis FCA oligomers into condensates competent for RNA 3’processing. The EMBO Journal, 44(7), 2056–2074.
+
+Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fang, X., Leake, M., & Dean, C. (2025). In vivo properties of Arabidopsis FCA condensates involved in RNA 3’processing. EMBO Journal.
+
+Shepherd, J., & Leake, M. (2025). Invention, Innovation, and Commercialisation in British Biophysics. arXiv preprint arXiv:2504.11276.
 
 2024:
 
-Wollman, A., Syeda, A., Howard, J., Payne-Dwyer, A., Leech, A., Warecka, D., Guy, C., McGlynn, P., Hawkins, M., & Leake, M. (2024). Tetrameric UvrD helicase is located at the E. coli replisome due to frequent replication blocks. Journal of Molecular Biology, 436(2), 168369.
-
 Shepherd, J., Guilbaud, S., Zhou, Z., Howard, J., Burman, M., Schaefer, C., Kerrigan, A., Steele-King, C., Noy, A., & Leake, M. (2024). Correlating fluorescence microscopy, optical and magnetic tweezers to study single chiral biopolymers such as DNA. Nature Communications, 15(1), 2748.
-
-Lecinski, S., MacDonald, C., & Leake, M. (2024). iPAR: a new reporter for eukaryotic cytoplasmic protein aggregation. bioRxiv, 2024–01.
 
 Payne-Dwyer, A., Kumar, G., Barrett, J., Gherman, L., Hodgkinson, M., Plevin, M., Mackinder, L., Leake, M., & Schaefer, C. (2024). Predicting Rubisco-Linker Condensation from Titration in the Dilute Phase. Physical Review Letters, 132(21), 218401.
 
@@ -18,17 +27,23 @@ Dresser, L., Leake, M., & Quinn, S. (2024). Beta-amyloid induces the structural 
 
 Schulten, A., Jang, G.J., Payne-Dwyer, A., Nielsen, M., Bienz, M., Leake, M., & Dean, C. (2024). Functional specialization of Arabidopsis VEL polymerization domains in the switch to Polycomb silencing. bioRxiv, 2024–02.
 
-Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fang, X., Leake, M., & Dean, C. (2024). In vivo properties of Arabidopsis FCA condensates involved in RNA 3’processing. bioRxiv, 2024–04.
+Wollman, A., Syeda, A., Howard, J., Payne-Dwyer, A., Leech, A., Warecka, D., Guy, C., McGlynn, P., Hawkins, M., & Leake, M. (2024). Tetrameric UvrD helicase is located at the E. coli replisome due to frequent replication blocks. Journal of Molecular Biology, 436(2), 168369.
 
-Barrett, J., Naduthodi, M., Mao, Y., Degut, C., Musial, S., Salter, A., Leake, M., Plevin, M., McCormick, A., Blaza, J., & others (2024). A promiscuous mechanism to phase separate eukaryotic carbon fixation in the green lineage. bioRxiv, 2024–04.
+Barrett, J., Naduthodi, M., Mao, Y., Degut, C., Musia\l, S., Salter, A., Leake, M., Plevin, M., McCormick, A., Blaza, J., & others (2024). A promiscuous mechanism to phase separate eukaryotic carbon fixation in the green lineage. Nature Plants, 10(11), 1801–1813.
 
 Pei, L., Xian, Y., Yan, X., Schaefer, C., Syeda, A., Howard, J., Liao, H., Bai, F., Leake, M., & Pu, Y. (2024). Bacterial stress granule protects mRNA through ribonucleases exclusion. bioRxiv, 2024–04.
 
 Payne-Dwyer, A., Jang, G.J., Dean, C., & Leake, M. (2024). SlimVar: rapid in vivo single-molecule tracking of chromatin regulators in plants. bioRxiv, 2024–05.
 
+Evans, D., Khamas, A., Payne-Dwyer, A., Wollman, A., Rasmussen, K., Klitgaard, J., Kallipolitis, B., Leake, M., & Meyer, R. (2024). Cooperation between coagulase and von willebrand factor binding protein in Staphylococcus aureus fibrin pseudocapsule formation. Biofilm, 8, 100233.
+
 Leake, M. (2024). Role of BST4 in Chlamydomonas. Plant Physiology.
 
 Howard, J., Ambrose, B., Abdelhamid, M., Alevropoulos-Borrill, A., Ejaz, A., Dresser, L., Dienerowitz, M., Quinn, S., Squires, A., Noy, A., & others (2024). Rep structures can be tuned by ionicity via metastable intermediates in the absence of DNA. bioRxiv, 2024–07.
+
+Dresser, L., Kunstmann-Olsen, C., Conteduca, D., Hofmair, C., Smith, N., Clark, L., Johnson, S., Penedo, J., Leake, M., & Quinn, S. (2024). Multiple intermediates in the detergent-induced fusion of lipid vesicles. Communications Materials, 5(1), 195.
+
+Adler, L., Lau, C., Shaikh, K., Maldegem, K., Payne-Dwyer, A., Lefoulon, C., Girr, P., Atkinson, N., Barrett, J., Emrich-Mills, T., & others (2024). Bestrophin-like protein 4 is involved in photosynthetic acclimation to light fluctuations in Chlamydomonas. Plant physiology, 196(4), 2374–2394.
 
 2023:
 
@@ -114,9 +129,7 @@ Leake, M.. (2021). Correlative approaches in single-molecule biophysics: A revie
 
 Jin, X., Lee, J.E., Schaefer, C., Luo, X., Wollman, A., Payne-Dwyer, A., Tian, T., Zhang, X., Chen, X., Li, Y., & others (2021). Membraneless organelles formed by liquid-liquid phase separation increase bacterial fitness. Science advances, 7(43), eabh2929.
 
-Backer, A., King, G., Biebricher, A., Shepherd, J., Noy, A., Leake, M., Heller, I., Wuite, G., & Peterman, E. (2021). Elucidating the role of topological constraint on the structure of overstretched DNA using fluorescence polarization microscopy. The Journal of Physical Chemistry B, 125(30), 8351–8361.
-
-Wollman, A., Syeda, A., Howard, J., Payne-Dwyer, A., Leech, A., Warecka, D., Guy, C., McGlynn, P., Hawkins, M., & Leake, M. (2021). Tetrameric UvrD helicase is located at theE. colireplisome due to frequent replication blocks.   
+Backer, A., King, G., Biebricher, A., Shepherd, J., Noy, A., Leake, M., Heller, I., Wuite, G., & Peterman, E. (2021). Elucidating the role of topological constraint on the structure of overstretched DNA using fluorescence polarization microscopy. The Journal of Physical Chemistry B, 125(30), 8351–8361.   
 
 2020:
 
