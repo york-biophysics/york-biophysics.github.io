@@ -37,10 +37,6 @@ scientists
 
 ![yay](/assets/img/words.png)
 
-<p align="center">
-  <img src="/assets/img/PoL2023.jpg" />
-</p>
+![yay]()"/assets/img/PoL2023.jpg")
 
-<p align="center">
-  <img src="/assets/img/PoL2025.jpeg" />
-</p>
+![yay](/assets/img/PoL2025.jpeg")
