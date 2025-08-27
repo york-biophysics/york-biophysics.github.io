@@ -5,6 +5,14 @@ title: Publications
 
 2025:
 
+Payne-Dwyer, A., Jang, G.-J., Dean, C., & Leake, M. C. (Accepted/In press). SlimVar for rapid in vivo single-molecule tracking of chromatin regulators in plants. Nature Communications.
+
+Pei, L., Xian, Y., Yan, X., Schaefer, C., Syeda, A.H., Howard, J.A., Zhang, W., Liao, H., Bai, F., Leake, M.C. and Pu, Y. (2025). Aggresomes protect mRNA under stress in Escherichia coli. Nature Microbiology, 1-15
+
+Chen, X., Fang, K., Li, B., Li, Y., Ke, Y., Ke, W., Tian, T., Zhao, Y., Wang, L., Geng, J. and Leake, M.C. (2025). Macrophage‐derived reactive oxygen species promote Salmonella aggresome formation contributing to bacterial antibiotic persistence. iMeta, e70059.
+
+Schulten, A., Jang, G.J., Payne-Dwyer, A., Fiedler, M., Nielsen, M., Mateo-Bonmati, E., Bienz, M., Leake, M.C. and Dean, C. (2025). VEL-dependent polymerization maintains the chromatin association of Polycomb proteins for the switch to epigenetic silencing. Molecular Cell.
+
 Shepherd, J., Howard, J., Guilbaud, S., Zhou, Z., & Leake, M. (2025). BPS2025-Twisting, stretching, and imaging chiral biopolymers, such as DNA, in real time. Biophysical Journal, 124(3), 379a.
 
 Payne-Dwyer, A., Kumar, G., Barrett, J., Gherman, L., Hodgkinson, M., Plevin, M., Mackinder, L., Leake, M., & Schaefer, C. (2025). BPS2025-Turbocharged carbon fixation: A predictive combinatorial model for self-assembly and condensation of Rubisco. Biophysical Journal, 124(3), 411a.
@@ -15,7 +23,7 @@ Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fa
 
 Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fang, X., Leake, M., & Dean, C. (2025). In vivo properties of Arabidopsis FCA condensates involved in RNA 3’processing. EMBO Journal.
 
-Shepherd, J., & Leake, M. (2025). Invention, Innovation, and Commercialisation in British Biophysics. arXiv preprint arXiv:2504.11276.
+Shepherd, J., & Leake, M. C. (2025). Invention, innovation, and commercialisation in British biophysics. Biophysical Reviews, 1-14.
 
 2024:
 
