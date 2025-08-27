@@ -37,6 +37,12 @@ scientists
 
 ![yay](/assets/img/words.png)
 
-![yay]()"/assets/img/PoL2023.jpg")
+
+**Physics of Life Group Away Day 2025**
 
 ![yay](/assets/img/PoL2025.jpeg")
+
+
+**Physics of Life Group Away Day 2023**
+
+![yay]("/assets/img/PoL2023.jpg")
