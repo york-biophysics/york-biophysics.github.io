@@ -5,6 +5,15 @@ title: Leake Group of "Fancy Microscopy"
 
 # Single-molecular cellular biophysics
 
+**Physics of Life Group Away Day 2025**
+
+![yay](/assets/img/PoL2025.jpeg")
+
+
+**Physics of Life Group Away Day 2023**
+
+![yay]("/assets/img/PoL2023.jpg")
+
 The Leake research group of Biophysics and Biological Physics is jointly
 hosted by the [Physics](https://www.york.ac.uk/physics-engineering-technology/) 
 and [Biology](https://www.york.ac.uk/biology/) Departments at the 
