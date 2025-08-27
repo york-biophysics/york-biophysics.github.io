@@ -35,5 +35,12 @@ of York’s Biological Physical Sciences Interdisciplinary network (BPSInet) and
 through a range of cross-departmental collaborations between physical and life
 scientists
 
-
 ![yay](/assets/img/words.png)
+
+<p align="center">
+  <img src="/assets/img/PoL2023.jpg" />
+</p>
+
+<p align="center">
+  <img src="/assets/img/PoL2025.jpeg" />
+</p>
