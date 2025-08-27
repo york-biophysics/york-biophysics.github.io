@@ -46,4 +46,4 @@ scientists
 
 **Physics of Life Group Away Day 2023**
 
-![yay]("/assets/img/PoL2023.jpg)
+![yay](/assets/img/PoL2023.jpg)
