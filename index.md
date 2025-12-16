@@ -38,6 +38,9 @@ scientists
 
 ![yay](/assets/img/words.png)
 
+**Physics of Life Group Christmas Meal 2025**
+
+![yay](/assets/img/Meal2025.jpeg)
 
 **Physics of Life Group Away Day 2025**
 
