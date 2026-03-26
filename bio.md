@@ -4,7 +4,7 @@ title: Bio
 ---
 
 <p align="center">
-  <img src="/assets/img/profLeake.jpg" />
+  <img src="/assets/img/Leake portrait from Karolinska Inst talk Mar2026.png" />
 </p>
 <center>Professor Mark Leake, FInstP, FRMS, FRSB</center>
 <center>mark.leake@york.ac.uk</center>
