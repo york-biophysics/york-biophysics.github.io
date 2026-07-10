@@ -50,9 +50,9 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "Mark.Leake@york.ac.uk"
+  email: "mark.c.leake@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  twitter: "@BPSIYork"
+  Linkedin: https://www.linkedin.com/in/markleake/"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
