@@ -5,9 +5,9 @@ title: Publications
 
 2026:
 
-Schaefer, Charley & Leake, Mark. Biophysics of the Pyrenoid.  (2026) Arxiv, https://doi.org/10.48550/arXiv.2607.05154.
+Schaefer, Charley & Leake, Mark. Biophysics of the Pyrenoid.  (2026) [Arxiv] (https://doi.org/10.48550/arXiv.2607.05154).
 
-Aisha H. Syeda, Victoria A. Leek,  Anthony Maxwell,  Mark C. Leake. Single-molecule insights into DNA gyrase in live bacteria. (2026) Biorxiv, https://doi.org/10.64898/2026.06.21.733238.
+Aisha H. Syeda, Victoria A. Leek,  Anthony Maxwell,  Mark C. Leake. Single-molecule insights into DNA gyrase in live bacteria. (2026) [Biorxiv] (https://doi.org/10.64898/2026.06.21.733238).
 
 Howard, Jamieson; Ambrose, Benjamin; Abdelhamid, Mahmoud; Frame, Lewis; Alevropoulos, Antoinette; Ejaz, Ayesha; Dresser, Lara; Dienerowitz, Maria; Quinn, Steven; Squires, Allison; Noy, Agnes; Craggs, Timothy; Leake, Mark*. The transitional kinetics between open and closed Rep structures can be tuned by salt via two intermediate states. (2026) Nucleic Acids Research, 54(2):gkaf1483.
 
