@@ -3,9 +3,14 @@ layout: home
 title: The Physics of Life Group 
 ---
 
-# Single-molecular cellular biophysics
+# Understanding life, one molecule at a time
 
-![yay](/assets/img/PoLlogo.jgg)
+
+![yay](/assets/img/PoLlogo.jpg)
+
+**Transformative research at the physical-life sciences interface**
+
+
 The Physics of Life Group led by Professor Mark Leake comprises research themes of transformative experimental biophysics and theoretical biophysics tools and techniques to address outstanding questions in the life sciences, explore new physics and physical principles inspired by biology, and engineer bionanotechnology tools for applications in biomedicine, synthetic biology and bioengineering. We focus at a precision of single biomolecules using innovative biophysics tools and concepts to enable us to explore emergent properties in living cells and tissues.  
 
 These tools include  a range of home-built optical microscopy instruments including total internal reflection fluorescence (TIRF) microscopy,
