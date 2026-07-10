@@ -69,7 +69,7 @@ collegiality, dedicated to the pursuit of the highest standards of scholarship,
 academic collaboration, and inspirational teaching, and he aims to invigorate
 all who study, research and work with him.
 
-**Physics of Life Group**
+**The Physics of Life Group was conveived in York but is now a North East of England Centre of Excellence. See how we started...**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zylv3cpAnc4?si=sNJHatEH17VmqX8M" title="Physics of Life Group" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
