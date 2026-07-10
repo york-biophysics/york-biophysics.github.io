@@ -7,7 +7,7 @@ title: Bio
   <img src="/assets/img/Leake portrait from Karolinska Inst talk Mar2026.png" />
 </p>
 <center>Professor Mark Leake, FInstP, FRMS, FRSB</center>
-<center>mark.leake@york.ac.uk</center>
+<center>mark.c.leake@gmail.com</center>
 
 **Mark Leake** is a physicist by training, addressing challenging biophysical and
 biochemical questions in a range of biological processes. Following initial
