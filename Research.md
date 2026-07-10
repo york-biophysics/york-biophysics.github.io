@@ -41,9 +41,8 @@ physiological of individual cells and how this changes during conditions of
 stress.
 
 The
-Physics of Life Group
-led by Mark Leake
-comprising several researchers across the physical-life sciences interface. This has catalyzed some very
+Physics of Life Group led by Mark Leake
+comprises several exceptional researchers across the physical-life sciences interface. This has catalyzed some very
 lively biophysics discussions, allows junior members in particular to find
 their voice and provides focused project talks as well as talks from experts
 from other departments. We are also a core component of the UK Physics of Life network [PoLNET](https://www.physicsoflife.org.uk/), a national network of >2k 
