@@ -40,23 +40,20 @@ cutting-edge biophysics to enable characterization of the sub-cellular
 physiological of individual cells and how this changes during conditions of
 stress.
 
-We are a core component of the 
-[Physics of Life Group](https://www.york.ac.uk/physics-engineering-technology/research/physics-of-life/) 
-coordinated by Mark Leake
-comprising several research teams in in the University of York Physics
-Department, in a highly constructive and collegiate way and drive the
-Biophysics and Biological Physics Project seminar series in York, which is a
-networking vehicle running 4-6 times each term. This has catalyzed some very
+The
+Physics of Life Group
+led by Mark Leake
+comprising several researchers across the physical-life sciences interface. This has catalyzed some very
 lively biophysics discussions, allows junior members in particular to find
 their voice and provides focused project talks as well as talks from experts
-from other departments. We are also a core component of the BPSI, a network of
+from other departments. We are also a core component of the UK Physics of Life network [PoLNET](https://www.physicsoflife.org.uk/), a national network of >2k 
 exceptional interdisciplinary science researchers working at the cutting-edge
 interface between the life and physical sciences.
 
-The Leake biophysics group in York works on some very diverse biological
+The Leake group  works on some very diverse biological
 systems with a strategic view to seeing their paradigm features as  being
 exemplars of longstanding questions, as opposed to our simply focusing on more
-incremental types research. We are very much exploratory driven.  It's
+incremental types research. We are very much exploratory driven but with a view to joingint he dots betwee Discovery and Translation.  It's
 interesting, exciting and innovative.
 
 Above all, it's a lot of fun, with an ambitious and innovative
