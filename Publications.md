@@ -3,15 +3,29 @@ layout: page
 title: Publications 
 ---
 
+2026:
+
+Schaefer, Charley & Leake, Mark. Biophysics of the Pyrenoid.  (2026) Arxiv, https://doi.org/10.48550/arXiv.2607.05154.
+
+Aisha H. Syeda, Victoria A. Leek,  Anthony Maxwell,  Mark C. Leake. Single-molecule insights into DNA gyrase in live bacteria. (2026) Biorxiv, https://doi.org/10.64898/2026.06.21.733238.
+
+Howard, Jamieson; Ambrose, Benjamin; Abdelhamid, Mahmoud; Frame, Lewis; Alevropoulos, Antoinette; Ejaz, Ayesha; Dresser, Lara; Dienerowitz, Maria; Quinn, Steven; Squires, Allison; Noy, Agnes; Craggs, Timothy; Leake, Mark*. The transitional kinetics between open and closed Rep structures can be tuned by salt via two intermediate states. (2026) Nucleic Acids Research, 54(2):gkaf1483.
+
+Andrews CMF, Hofmair CM, Roberts L, James E, Morris K, Kramm K, Leake MC, Wang Y, Quinn SD. Detergent-Triggered Membrane Remodelling Monitored via Intramembrane Fluorescence Dequenching. (2026) ACS Omega, 11(3):4465-4474.
+
 2025:
 
-Payne-Dwyer, A., Jang, G.-J., Dean, C., & Leake, M. C. (Accepted/In press). SlimVar for rapid in vivo single-molecule tracking of chromatin regulators in plants. Nature Communications.
+Payne-Dwyer, A., Jang, G.-J., Dean, C., & Leake, M. C. SlimVar for rapid in vivo single-molecule tracking of chromatin regulators in plants. Nature Communications, 16(1):8156
 
-Pei, L., Xian, Y., Yan, X., Schaefer, C., Syeda, A.H., Howard, J.A., Zhang, W., Liao, H., Bai, F., Leake, M.C. and Pu, Y. (2025). Aggresomes protect mRNA under stress in Escherichia coli. Nature Microbiology, 1-15
+Pei, L., Xian, Y., Yan, X., Schaefer, C., Syeda, A.H., Howard, J.A., Zhang, W., Liao, H., Bai, F., Leake, M.C. and Pu, Y. (2025). Aggresomes protect mRNA under stress in Escherichia coli. Nature Microbiology, 10(9):2323-2337.
+
+Chan EW, Leake MC, Noy A. HU Searches and Binds Specific DNA via a Multistep Process Combining Weak Electrostatic Binding, Protein Reorientation, and DNA Flexibility. JACS Au. (2025) (10):4870-4878.
 
 Chen, X., Fang, K., Li, B., Li, Y., Ke, Y., Ke, W., Tian, T., Zhao, Y., Wang, L., Geng, J. and Leake, M.C. (2025). Macrophage‐derived reactive oxygen species promote Salmonella aggresome formation contributing to bacterial antibiotic persistence. iMeta, e70059.
 
-Schulten, A., Jang, G.J., Payne-Dwyer, A., Fiedler, M., Nielsen, M., Mateo-Bonmati, E., Bienz, M., Leake, M.C. and Dean, C. (2025). VEL-dependent polymerization maintains the chromatin association of Polycomb proteins for the switch to epigenetic silencing. Molecular Cell.
+Schulten, A., Jang, G.J., Payne-Dwyer, A., Fiedler, M., Nielsen, M., Mateo-Bonmati, E., Bienz, M., Leake, M.C. and Dean, C. (2025). VEL-dependent polymerization maintains the chromatin association of Polycomb proteins for the switch to epigenetic silencing. Molecular Cell, 85(17):3321-3332.e5.
+
+Graham SP, Betts JK, Craggs TD, Leake MC, Hill CH, Quinn SD. A DNA Scaffold Approach Facilitates 5' Labeling of the SARS-CoV-2 RNA Pseudoknot for Single-Molecule Förster Resonance Energy Transfer Investigation. (2025) Chemphyschem,  26(23):e202500568.
 
 Shepherd, J., Howard, J., Guilbaud, S., Zhou, Z., & Leake, M. (2025). BPS2025-Twisting, stretching, and imaging chiral biopolymers, such as DNA, in real time. Biophysical Journal, 124(3), 379a.
 
@@ -21,9 +35,8 @@ Lecinski, S., Howard, J., MacDonald, C., & Leake, M. (2025). iPAR: a new reporte
 
 Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fang, X., Leake, M., & Dean, C. (2025). Modular in vivo assembly of Arabidopsis FCA oligomers into condensates competent for RNA 3’processing. The EMBO Journal, 44(7), 2056–2074.
 
-Jang, G.J., Payne-Dwyer, A., Maple, R., Wu, Z., Liu, F., Lopez, S., Wang, Y., Fang, X., Leake, M., & Dean, C. (2025). In vivo properties of Arabidopsis FCA condensates involved in RNA 3’processing. EMBO Journal.
+Shepherd, J., & Leake, M. C. (2025). Invention, innovation, and commercialisation in British biophysics. Biophysical Reviews, 17(4):1143-1156.
 
-Shepherd, J., & Leake, M. C. (2025). Invention, innovation, and commercialisation in British biophysics. Biophysical Reviews, 1-14.
 
 2024:
 
@@ -35,7 +48,7 @@ Dresser, L., Leake, M., & Quinn, S. (2024). Beta-amyloid induces the structural 
 
 Schulten, A., Jang, G.J., Payne-Dwyer, A., Nielsen, M., Bienz, M., Leake, M., & Dean, C. (2024). Functional specialization of Arabidopsis VEL polymerization domains in the switch to Polycomb silencing. bioRxiv, 2024–02.
 
-Wollman, A., Syeda, A., Howard, J., Payne-Dwyer, A., Leech, A., Warecka, D., Guy, C., McGlynn, P., Hawkins, M., & Leake, M. (2024). Tetrameric UvrD helicase is located at the E. coli replisome due to frequent replication blocks. Journal of Molecular Biology, 436(2), 168369.
+Wollman, A., Syeda, A., Howard, J., Payne-Dwyer, A., Leech, A., Warecka, D., Guy, C., McGlynn, P., Hawkins, M., & Leake, M. (2024). Tetrameric UvrD helicase is located at the E. coli replisome due to frequent replication blocks. Journal of Molecular Biology, 436(2):168369.
 
 Barrett, J., Naduthodi, M., Mao, Y., Degut, C., Musia\l, S., Salter, A., Leake, M., Plevin, M., McCormick, A., Blaza, J., & others (2024). A promiscuous mechanism to phase separate eukaryotic carbon fixation in the green lineage. Nature Plants, 10(11), 1801–1813.
 
@@ -45,13 +58,11 @@ Payne-Dwyer, A., Jang, G.J., Dean, C., & Leake, M. (2024). SlimVar: rapid in viv
 
 Evans, D., Khamas, A., Payne-Dwyer, A., Wollman, A., Rasmussen, K., Klitgaard, J., Kallipolitis, B., Leake, M., & Meyer, R. (2024). Cooperation between coagulase and von willebrand factor binding protein in Staphylococcus aureus fibrin pseudocapsule formation. Biofilm, 8, 100233.
 
-Leake, M. (2024). Role of BST4 in Chlamydomonas. Plant Physiology.
-
 Howard, J., Ambrose, B., Abdelhamid, M., Alevropoulos-Borrill, A., Ejaz, A., Dresser, L., Dienerowitz, M., Quinn, S., Squires, A., Noy, A., & others (2024). Rep structures can be tuned by ionicity via metastable intermediates in the absence of DNA. bioRxiv, 2024–07.
 
 Dresser, L., Kunstmann-Olsen, C., Conteduca, D., Hofmair, C., Smith, N., Clark, L., Johnson, S., Penedo, J., Leake, M., & Quinn, S. (2024). Multiple intermediates in the detergent-induced fusion of lipid vesicles. Communications Materials, 5(1), 195.
 
-Adler, L., Lau, C., Shaikh, K., Maldegem, K., Payne-Dwyer, A., Lefoulon, C., Girr, P., Atkinson, N., Barrett, J., Emrich-Mills, T., & others (2024). Bestrophin-like protein 4 is involved in photosynthetic acclimation to light fluctuations in Chlamydomonas. Plant physiology, 196(4), 2374–2394.
+Adler L, Lau CS, Shaikh KM, van Maldegem KA, Payne-Dwyer AL, Lefoulon C, Girr P, Atkinson N, Barrett J, Emrich-Mills TZ, Dukic E, Blatt MR, Leake MC, Peltier G, Spetea C, Burlacot A, McCormick AJ, Mackinder LCM, Walker CE. Bestrophin-like protein 4 is involved in photosynthetic acclimation to light fluctuations in Chlamydomonas. (2024) Plant Physiol, 196(4):2374-2394.
 
 2023:
 
