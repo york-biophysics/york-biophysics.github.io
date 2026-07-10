@@ -57,9 +57,7 @@ functional interactions
   phase separation behaviour technologies in fundamental biological processes.
 
 Leake’s work on molecular manipulation, ultrasensitive imaging and bespoke
-instrumentation has led to >150 articles, >15 papers cited over 100 times, several
-thousand cumulative citations, with a personal h-index of >40. He is an elected
-Fellow of the Institute of Physics, Royal Microscopical Society, and Royal
+instrumentation has led to >150 articles, >20 papers cited over 100 times, ~10k cumulative citations, with a personal h-index of >50. He is an elected Fellow of the Institute of Physics, Royal Microscopical Society, and Royal
 Society of Biology, and an editor for Nature Publishing Group and Royal Society
 journals.  He is sole-author of textbooks Single-molecule cellular biophysics
 (Cambridge University Press 2013), Biophysics: Tools & Techniques (CRC Press
@@ -71,7 +69,7 @@ collegiality, dedicated to the pursuit of the highest standards of scholarship,
 academic collaboration, and inspirational teaching, and he aims to invigorate
 all who study, research and work with him.
 
-**Physics of Life Group at the University of York**
+**Physics of Life Group**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zylv3cpAnc4?si=sNJHatEH17VmqX8M" title="Physics of Life Group at the University of York" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zylv3cpAnc4?si=sNJHatEH17VmqX8M" title="Physics of Life Group" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
