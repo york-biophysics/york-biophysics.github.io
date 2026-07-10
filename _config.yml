@@ -10,7 +10,7 @@
 ############################
 
 # Name of website
-title: Leake Lab 
+title: Physics of Life Group 
 
 # Your name to show in the footer
 author: Mark Leake
@@ -52,10 +52,9 @@ navbar-links:
 social-network-links:
   email: "mark.c.leake@gmail.com"
   #rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  Linkedin: https://www.linkedin.com/in/markleake/"
-#  medium: yourname
+ #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: markleake
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
